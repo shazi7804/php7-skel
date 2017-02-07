@@ -1,0 +1,14 @@
+{
+    "name": "shazi7804/php7-skel",
+    "authors": [
+        {
+            "name": "shazi7804",
+            "email": "shazi7804@gmail.com"
+        }
+    ],
+    "require": {
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~5.7"
+    }
+}
